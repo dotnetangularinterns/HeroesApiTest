@@ -1,0 +1,26 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "Pasha",
+    "Pic": "https://spng.pngfly.com/20190305/zga/kisspng-t-shirt-dabbing-unicorn-mens-tank-top-dabbing-un-unicorn-dab-sticker-by-ona-maria-acuna-escano-5c7ee36e662318.0101235515518196304184.jpg",
+    "Power": 99.99
+  },
+  {
+    "Id": 2,
+    "Name": "Chris",
+    "Pic": "https://images.homedepot-static.com/productImages/c0e81cb5-551b-4263-afe3-c727fceaa2af/svn/everbilt-hex-nuts-804076-64_1000.jpg",
+    "Power": 0.001
+  },
+  {
+    "Id": 3,
+    "Name": "Marcus",
+    "Pic": "https://i.ytimg.com/vi/sq0iNAqrT9c/maxresdefault.jpg",
+    "Power": -69.0
+  },
+  {
+    "Id": 4,
+    "Name": "Ashazi",
+    "Pic": "https://image.shutterstock.com/image-vector/medieval-tower-facade-old-town-260nw-1220754670.jpg",
+    "Power": -911.0
+  }
+]
